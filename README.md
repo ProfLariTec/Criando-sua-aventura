@@ -1,1 +1,1 @@
-# Criando-sua-aventura
+img/cenario-passo0.png
